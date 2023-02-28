@@ -1,0 +1,17 @@
+D:\Travail C#\BlocNoteClone\BlocNoteClone\bin\Debug\net6.0-windows\BlocNoteClone.exe
+D:\Travail C#\BlocNoteClone\BlocNoteClone\bin\Debug\net6.0-windows\BlocNoteClone.deps.json
+D:\Travail C#\BlocNoteClone\BlocNoteClone\bin\Debug\net6.0-windows\BlocNoteClone.runtimeconfig.json
+D:\Travail C#\BlocNoteClone\BlocNoteClone\bin\Debug\net6.0-windows\BlocNoteClone.dll
+D:\Travail C#\BlocNoteClone\BlocNoteClone\bin\Debug\net6.0-windows\BlocNoteClone.pdb
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.csproj.AssemblyReference.cache
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.csproj.GenerateResource.cache
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.AssemblyInfoInputs.cache
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.AssemblyInfo.cs
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.csproj.CoreCompileInputs.cache
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.dll
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\refint\BlocNoteClone.dll
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.pdb
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.genruntimeconfig.cache
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\ref\BlocNoteClone.dll
+D:\Travail C#\BlocNoteClone\BlocNoteClone\obj\Debug\net6.0-windows\BlocNoteClone.BlocNote.resources
